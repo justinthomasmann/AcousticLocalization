@@ -1,0 +1,12 @@
+---
+title: "2021 CIW Tree Census"
+author: "Justin Mann"
+date: "2024-02-02"
+output: html_document
+---
+
+```{r libraries}
+library(vegan)
+citation("vegan")
+```
+
