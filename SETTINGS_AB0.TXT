@@ -1,0 +1,18 @@
+{
+  gain: 2,
+  sampleRate: 48000,
+  enableDailyFolders: 0,
+  enableFilenameWithDeviceID: 1,
+  enableLowGainRange: 0,
+  enableMagneticSwitch: 0,
+  disable48HzDCBlockingFilter: 0,
+  enableAlternativeBatteryVoltageRange: 0,
+  initialFixDuration: 300,
+  intervalToNextFixAttempt: 60,
+  recordingFixDuration: 60,
+  recordingPeriods: [
+    { startTime: "17:00", endTime: "20:00" }
+  ],
+  firstRecordingDate: "08/11/2026",
+  lastRecordingDate: "08/11/2026"
+}
